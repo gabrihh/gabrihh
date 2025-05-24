@@ -1,23 +1,104 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!DOCTYPE html><html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>GabrihhDEV_</title>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-Ho3yFsv9VjJ6ZcAMaCg3gnwNmJ2Rn+jpryQyH+UEO6A+fYkzqPlndUVBiHlsk0AKI4sv4Gc0MkCgI4I+gFbIBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Outfit', sans-serif;
+      background: #0f0f0f;
+      color: white;
+      overflow: hidden;
+    }
+    .container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      z-index: 10;
+      max-width: 90vw;
+    }
+    .name {
+      font-size: 3rem;
+      font-weight: bold;
+    }
+    .bio {
+      margin: 1rem 0;
+      font-size: 1.2rem;
+      color: #ccc;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .links {
+      margin-top: 1rem;
+    }
+    .links a {
+      margin: 0 1rem;
+      color: #61dafb;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+    .links a i {
+      margin-right: 0.5rem;
+    }
+    .extra {
+      margin-top: 2rem;
+      color: #888;
+      font-size: 0.9rem;
+    }
+    canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 0;
+    }
+  </style>
 </head>
 <body>
   <div class="container">
     <div class="name">GabrihhDEV_</div>
     <div class="bio">Sou desenvolvedor Full Stack com mais de 4 anos de experiência, apaixonado por soluções criativas e tecnologia web.</div>
     <div class="links">
-      <a href="https://github.com/gabrihh" target="_blank">GitHub</a>
-      <a href="https://discord.com/users/gabrihhpvpz_" target="_blank">Discord</a>
+      <a href="https://github.com/gabrihh" target="_blank"><i class="fab fa-github"></i>GitHub</a>
+      <a href="https://discord.com/users/gabrihhpvpz_" target="_blank"><i class="fab fa-discord"></i>Discord</a>
     </div>
-  </div>
+    <div class="extra">Site pessoal simples, criado para referência como autor. Projetos reais no GitHub!</div>
+  </div>  <script src="https://cdn.jsdelivr.net/npm/three@0.150.1/build/three.min.js"></script>  <script>
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ alpha: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
 
-  <script src="https://cdn.jsdelivr.net/npm/three@0.150.1/build/three.min.js"></script>
-  <script src="script.js"></script>
-</body>
-                                                                                </html>
+    const geometry = new THREE.TorusKnotGeometry(4, 1, 100, 16);
+    const material = new THREE.MeshStandardMaterial({ color: 0x00ffff, metalness: 0.7, roughness: 0.2 });
+    const torusKnot = new THREE.Mesh(geometry, material);
+    scene.add(torusKnot);
+
+    const light = new THREE.PointLight(0xffffff, 1);
+    light.position.set(25, 50, 25);
+    scene.add(light);
+
+    camera.position.z = 20;
+
+    function animate() {
+      requestAnimationFrame(animate);
+      torusKnot.rotation.x += 0.005;
+      torusKnot.rotation.y += 0.007;
+      renderer.render(scene, camera);
+    }
+    animate();
+
+    window.addEventListener('resize', () => {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+  </script></body>
+                                                                                        </html>
