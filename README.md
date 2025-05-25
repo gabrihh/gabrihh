@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </p>
 
+## Stats
 ![gabrihh's Stats](https://github-readme-stats.vercel.app/api?username=gabrihh&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
 ![gabrihh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrihh&theme=tokyonight&hide_border=true)
