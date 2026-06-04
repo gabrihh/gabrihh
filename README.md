@@ -1,6 +1,9 @@
 <div style="margin: 5px">
 
 # About me!
+• Name: Gabriel.
+• Nationality: Brazil.
+• Languages: Português [BR], English and Español.
 
 ## Contact me:
 
