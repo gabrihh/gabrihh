@@ -1,3 +1,5 @@
+<div style="margin: 5px">
+
 # About me!
 
 ## Contact me:
@@ -19,3 +21,5 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
+</div>
