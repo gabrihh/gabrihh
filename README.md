@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
-
 # About me!
 • Name: Gabriel.<br>
 • Nationality: Brazil.<br>
@@ -8,7 +6,7 @@
 • **Private** projects: 7.
 
 ## Contact me:
-• <i class="fab fa-discord"></i> Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
+• [![icon](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
 • E-mail: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
 
 ## Skills
