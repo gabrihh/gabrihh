@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://unpkg.com/lucide-static@latest/font/lucide.css" />
+
 # About me!
 • Name: Gabriel.<br>
 • Nationality: Brazil.<br>
