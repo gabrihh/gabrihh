@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://unpkg.com/lucide-static@latest/font/lucide.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
 
 # About me!
 • Name: Gabriel.<br>
@@ -8,7 +8,7 @@
 • **Private** projects: 7.
 
 ## Contact me:
-• <div class="icon-discord"></div> Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
+• <i class="fab fa-discord"></i> Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
 • E-mail: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
 
 ## Skills
