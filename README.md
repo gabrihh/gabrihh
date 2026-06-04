@@ -2,6 +2,8 @@
 • Name: Gabriel.<br>
 • Nationality: Brazil.<br>
 • Languages: Português [BR], English and Español.
+• Experience: 4+ years.
+• **Private** projects: 7.
 
 ## Contact me:
 • Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
