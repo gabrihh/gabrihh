@@ -1,5 +1,14 @@
 ## Hi! 😁
 
+---
+
+## Contact me:
+
+Discord: [https://discord.com/user/548905801926836234](@gabrihhpvpz_)
+Email: [mailto:me.gabrihh@gmail.com](me.gabrihh@gmail.com)
+
+---
+
 ## Skills
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
