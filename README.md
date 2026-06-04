@@ -1,5 +1,3 @@
-<div style="margin: 5px">
-
 # About me!
 • Name: Gabriel.<br>
 • Nationality: Brazil.<br>
@@ -42,5 +40,3 @@
     </tr>
   </tbody>
 </table>
-
-</div>
