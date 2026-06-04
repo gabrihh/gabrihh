@@ -10,7 +10,7 @@
 • Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
 • E-mail: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
 
-<table align="center">
+<table align="center" style="margin: 10px">
   <thead>
     <tr>
       <th colspan="2">Skills</th>
