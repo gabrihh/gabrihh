@@ -1,5 +1,3 @@
-## Hi! 😁
-
 ## Contact me:
 
 • Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
