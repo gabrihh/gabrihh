@@ -4,8 +4,8 @@
 
 ## Contact me:
 
-<p> • Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) </p>
-<p> • Email: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com) </p>
+• Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
+• Email: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
 
 ---
 
