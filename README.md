@@ -6,11 +6,11 @@
 • Languages: Português [BR], English and Español.
 
 ## Contact me:
-
 • Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
 • E-mail: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
 
-<table align="center" style="margin: 10px">
+## Skills
+<table align="center">
   <thead>
     <tr>
       <th colspan="2">Skills</th>
