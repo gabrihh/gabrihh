@@ -6,7 +6,7 @@
 • **Private** projects: 7.
 
 ## Contact me:
-• [![icon](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
+• <img src="https://skillicons.dev/icons?i=discord" width="16"/> Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
 • E-mail: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
 
 ## Skills
