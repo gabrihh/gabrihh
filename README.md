@@ -1,8 +1,8 @@
 # About me!
 • Name: Gabriel.<br>
 • Nationality: Brazil.<br>
-• Languages: Português [BR], English and Español.
-• Experience: 4+ years.
+• Languages: Português [BR], English and Español.<br>
+• Experience: 4+ years.<br>
 • **Private** projects: 7.
 
 ## Contact me:
