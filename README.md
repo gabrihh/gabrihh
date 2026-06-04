@@ -22,10 +22,3 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
-## Stats
-![gabrihh's Stats](https://github-readme-stats.vercel.app/api?username=gabrihh&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-
-![gabrihh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrihh&theme=tokyonight&hide_border=true)
-
-![gabrihh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrihh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
