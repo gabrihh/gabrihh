@@ -5,7 +5,7 @@
 ## Contact me:
 
 • Discord: [@gabrihhpvpz_](https://discord.com/user/548905801926836234) <br>
-• Email: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
+• E-mail: [me.gabrihh@gmail.com](mailto:me.gabrihh@gmail.com)
 
 ---
 
