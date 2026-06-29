@@ -1,4 +1,6 @@
 # About me!
+👑 Founder of AtexStudios™ and Colbo Tech Enterprise™.
+
 • 👤 Name: Gabriel.<br>
 • 🌎 Nationality: Brazil.<br>
 • 🗣 Languages: Português [BR], English and Español.<br>
